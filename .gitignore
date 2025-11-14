@@ -211,3 +211,4 @@ __marimo__/
 *.tsv
 *.csv
 *.xlsx
+preprocessing/*.txt
