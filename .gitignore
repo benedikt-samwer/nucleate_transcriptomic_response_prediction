@@ -220,3 +220,6 @@ __marimo__/
 *.h5ad
 *.parquet
 *.json
+
+data/
+data_2/
