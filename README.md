@@ -91,4 +91,4 @@ Have a look at our [final presentation](./presentation/novaice-results.pdf)
 
 ## Contributors
 
-@lucas-diedrich, @mlorenz49, @esemsc-3b60f913
+@lucas-diedrich, @mlorenz49, @benedikt-samwer
